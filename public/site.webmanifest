@@ -1,0 +1,29 @@
+{
+  "name": "PIXORA — AI Photo Studio",
+  "short_name": "PIXORA",
+  "icons": [
+    {
+      "src": "/favicon-32x32.png?v=1.0",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-48x48.png?v=1.0",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png?v=1.0",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/pixora-favicon.png?v=1.0",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone"
+}
